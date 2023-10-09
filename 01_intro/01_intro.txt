@@ -1,0 +1,31 @@
+Identification of DP
+
+1. choice 
+2. optimal
+
+Base problems for DP
+
+1. 0-1 knapsack
+2. Unbounded knapsack
+3. fibonacci 
+4. LCS
+5. LIS
+6. Kadane's Algo
+7. Matrix chain multiplication
+8. DP on trees
+9. Dp on grid
+10. Others
+
+
+problems
+
+1. 0-1 knapsack
+
+a. subset sum
+b. equal sum partition
+c. count of subset sum
+d. minimum subset sum difference
+e. target sum
+f. subset of given difference
+
+
